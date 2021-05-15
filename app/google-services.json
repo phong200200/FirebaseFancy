@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "131276479482",
+    "project_id": "third-zephyr-313209",
+    "storage_bucket": "third-zephyr-313209.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:131276479482:android:d4320b635ed81c77ce6243",
+        "android_client_info": {
+          "package_name": "com.example.fancyver3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "131276479482-6bo0t1r4jdvbsmh4v8f60oesnc1hsiu5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASZTsKO_tAKN0Tz68fqXSCvZlfdTFxIDA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "131276479482-6bo0t1r4jdvbsmh4v8f60oesnc1hsiu5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
